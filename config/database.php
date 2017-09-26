@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'ddbrdsmysql.CHANGETHIS.us-east-1.rds.amazonaws.com',
+	'hostname' => 'ddbrdsmysql.c0ogdvvmrib2.us-east-1.rds.amazonaws.com',
 	'username' => 'ddbsqladmin',
 	'password' => 'MYPRODDBPASSWORDHERE',
 	'database' => 'citutorial',
